@@ -1,6 +1,6 @@
 #!/bin/bash
 
-deviceinfo_name="Armbian USB Gadget Network"
+deviceinfo_name="Nabu USB Gadget Network"
 deviceinfo_manufacturer="Armbian"
 #deviceinfo_usb_idVendor=
 #deviceinfo_usb_idProduct=
